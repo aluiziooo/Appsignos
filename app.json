@@ -1,0 +1,12 @@
+{
+  "name": "AppSignos",
+  "displayName": "AppSignos",
+  "expo": {
+    "name": "AppSignos",
+    "slug": "AppSignos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
